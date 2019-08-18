@@ -1,0 +1,11 @@
+C:\Users\Denis\source\repos\ConvertHexa\ConvertHexa\bin\Debug\ConvertHexa.exe.config
+C:\Users\Denis\source\repos\ConvertHexa\ConvertHexa\bin\Debug\ConvertHexa.exe
+C:\Users\Denis\source\repos\ConvertHexa\ConvertHexa\bin\Debug\ConvertHexa.pdb
+C:\Users\Denis\source\repos\ConvertHexa\ConvertHexa\bin\Debug\ConvertHexa.xml
+C:\Users\Denis\source\repos\ConvertHexa\ConvertHexa\obj\Debug\ConvertHexa.Form1.resources
+C:\Users\Denis\source\repos\ConvertHexa\ConvertHexa\obj\Debug\ConvertHexa.Resources.resources
+C:\Users\Denis\source\repos\ConvertHexa\ConvertHexa\obj\Debug\ConvertHexa.vbproj.GenerateResource.cache
+C:\Users\Denis\source\repos\ConvertHexa\ConvertHexa\obj\Debug\ConvertHexa.vbproj.CoreCompileInputs.cache
+C:\Users\Denis\source\repos\ConvertHexa\ConvertHexa\obj\Debug\ConvertHexa.exe
+C:\Users\Denis\source\repos\ConvertHexa\ConvertHexa\obj\Debug\ConvertHexa.xml
+C:\Users\Denis\source\repos\ConvertHexa\ConvertHexa\obj\Debug\ConvertHexa.pdb
